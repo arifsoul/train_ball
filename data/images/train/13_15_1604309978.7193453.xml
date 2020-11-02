@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>13_15_1604309978.7193453.png</filename>
+	<path>/media/arifsoul/Data/MOBO -EVO/bola_colab/bola/train/13_15_1604309978.7193453.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>184</ymin>
+			<xmax>274</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

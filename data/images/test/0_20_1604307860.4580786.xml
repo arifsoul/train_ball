@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>0_20_1604307860.4580786.png</filename>
+	<path>/media/arifsoul/Data/MOBO -EVO/bola_colab/bola/test/0_20_1604307860.4580786.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bola</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>310</ymin>
+			<xmax>385</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>
